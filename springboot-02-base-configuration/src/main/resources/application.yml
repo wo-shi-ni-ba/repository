@@ -1,0 +1,18 @@
+country: china
+
+user:
+  name: zhangsan
+  age: 20
+
+likes:
+  -ring
+  -baskball
+  -t
+
+users:
+  -
+    name: lishi
+    age: 21
+  -
+    name: wangwu
+    age: 22
